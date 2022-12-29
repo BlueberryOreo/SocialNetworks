@@ -84,14 +84,11 @@ int main() {
 }
 
 /*
-Ping and Xiang Ling are good friends.
+Ping is Xiang Ling's master.
 Ping is Traveler's good friend.
 Xiang Ling and Traveler are good friends.
 Xiang Ling and Guoba are good friends.
-Traveler and Tartaglia are bad friends.
-Tartaglia and Wanderer are bad friends.
-
-Traveler is Xing Qiu's friend.
+Traveler is Xing Qiu's good friend.
 Tighnari is Collei's teacher.
 Tighnari and Cyno are friends.
 Ayaka is Ayato's sibling.
@@ -100,6 +97,4 @@ What's the relationship between Ping and Traveler?
 What's the relationship between Xiang Ling and Ping?
 Is there any relationship between Tighnari and Collei?
 Is there any relationship between Ayaka and Ayato?
-
-
 */
